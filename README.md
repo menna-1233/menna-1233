@@ -19,9 +19,9 @@ AI-powered smart city reporting platform. Residents report issues (accidents, ga
 An app that helps guide users through transportation/navigation decisions. UI at [mashawir-ui](https://github.com/menna-1233/mashawir-ui) ([demo](https://mashawir-ui.vercel.app)), with a fuller [Next.js build](https://github.com/menna-1233/MASHAWIR_55) as well.
 `Next.js` `TypeScript` `React`
 
-#### [GF — Fade/Glass UI](https://github.com/menna-1233/GF-GORGREOUS-AND-FADE)
-A glass/fade-styled UI experiment.
-`TypeScript`
+#### [Gorgeous & Fade](https://github.com/menna-1233/GF-GORGREOUS-AND-FADE)
+A luxury women's clothing e-commerce store — product catalog, cart, auth, wishlist, and reviews, backed by Supabase.
+`React` `TypeScript` `Supabase`
 
 ---
 
