@@ -3,48 +3,63 @@
 # Hi, I'm Menna 👋
 
 **Computer Science Student @ Egyptian Chinese University (ECU)**
+Technical Co-Founder @ Qafilah · Founder @ Mashawir
 Interested in AI and building real products, not just prototypes.
 
 </div>
 
 ---
 
-### 🚀 Projects
+### 🚀 What I'm building
+
+#### Qafilah — Technical Co-Founder <sub>(2026–present)</sub>
+Leading technical direction end to end: applicant management and admin workflows, product architecture, UX/UI, frontend, and data flows — built with AI-assisted development workflows.
+
+#### Mashawir — Founder <sub>(2026–present)</sub>
+A transportation-tech product for navigating Egypt's informal public transportation system. Built route discovery and a transportation data system — routes, nodes, edges, stops, coordinates, and route variants — with an Arabic-first UX.
+`Supabase` `SQL` `APIs` `Mapping`
 
 #### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai) · [live demo](https://urbaneye-ai-gamma.vercel.app)
-AI-powered smart city reporting platform. Residents report issues (accidents, garbage, water leaks, broken streetlights, potholes) with a single photo; AI classifies the problem type, severity, and responsible department, then clusters similar reports into one **Incident** for admin action. Built for a Smart City hackathon.
+AI-powered incident management app. Residents report community issues with a single photo; AI automatically classifies the type, severity, location, and responsible department. App + AI analysis + backend API + admin dashboard. Built for a Smart City hackathon.
 `React` `TypeScript` `FastAPI` `Supabase` `Groq AI` `Leaflet`
 
 <img src="images/urbaneye.png" width="700" alt="RealityX report screen"/>
 
-#### Mashawir — Transportation Guidance App
-An app that helps guide users through transportation/navigation decisions.
-`Next.js` `TypeScript` `React`
-
 #### [Gorgeous & Fade](https://gf-eight-opal.vercel.app)
-A luxury women's clothing e-commerce store — product catalog, cart, auth, wishlist, and reviews, backed by Supabase.
+An e-commerce web experience that translates an existing fashion brand identity into a full storefront — visual system, customer journey, catalog, cart, auth, wishlist, and reviews — built with AI-assisted prototyping.
 `React` `TypeScript` `Supabase`
 
-<img src="images/gf.png" width="700" alt="Gorgeous & Fade storefront"/>
+---
+
+### 🏆 Achievements
+
+**1st Place — Cohort Project Competition**
+Led a university team building a **Voice-Controlled Robotic Arm**: voice-command training integrated with robotic control.
 
 ---
 
-### 🧰 Tech I work with
+### 🛠️ Skills
 
-| Area | Stack |
-|---|---|
-| **Frontend** | React · Next.js · TypeScript · Vite · Tailwind CSS · React Router · i18next · Leaflet |
-| **Backend** | FastAPI · Python · Pydantic |
-| **Data / Infra** | Supabase (DB + Auth) |
-| **AI** | Groq |
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+- **REST APIs** · **AI APIs / AI-assisted development** · **UX/UI & Product Design**
+- 🗣️ **Languages:** Arabic (native) · English
 
 ---
-
-### 🌱 Currently
-
-- Interested in **AI** and how to turn ideas into working products, end to end
-- Open to collaborating on student / hackathon projects
-- Always learning something new across the stack
 
 <div align="center">
 
