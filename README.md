@@ -9,21 +9,22 @@ Interested in AI and building real products, not just prototypes.
 
 ---
 
-### 🔭 What I'm building
+### 🚀 Projects
 
-**[RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai)** — an AI-powered smart city reporting platform.
+#### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai)
+AI-powered smart city reporting platform. Residents report issues (accidents, garbage, water leaks, broken streetlights, potholes) with a single photo; AI classifies the problem type, severity, and responsible department, then clusters similar reports into one **Incident** for admin action. Built for a Smart City hackathon.
+`React` `TypeScript` `FastAPI` `Supabase` `Groq AI` `Leaflet`
 
-Residents of a compound, university, or city report issues — accidents, garbage, water leaks, broken streetlights, potholes — with a single photo. AI automatically classifies the problem type, severity, and the responsible department. Similar reports get clustered into one **Incident** so management acts on a clear picture instead of scattered complaints. Built for a Smart City hackathon.
+#### [Mashawir](https://github.com/menna-1233/mashawir-ui) — Transportation Guidance App
+An app that helps guide users through transportation/navigation decisions. UI at [mashawir-ui](https://github.com/menna-1233/mashawir-ui) ([demo](https://mashawir-ui.vercel.app)), with a fuller [Next.js build](https://github.com/menna-1233/MASHAWIR_55) as well.
+`Next.js` `TypeScript` `React`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-</p>
+#### [GF — Fade/Glass UI](https://github.com/menna-1233/GF-GORGREOUS-AND-FADE)
+A glass/fade-styled UI experiment built with Google AI Studio, powered by the Gemini API. [Live demo](https://gf-eight-opal.vercel.app).
+`TypeScript` `Gemini API`
 
-**[→ View project](https://github.com/menna-1233/urbaneye-ai)**
+#### Qafilah
+Contributor to Qafilah. *(link coming soon)*
 
 ---
 
@@ -31,10 +32,10 @@ Residents of a compound, university, or city report issues — accidents, garbag
 
 | Area | Stack |
 |---|---|
-| **Frontend** | React · TypeScript · Vite · Tailwind CSS · React Router · i18next · Leaflet |
+| **Frontend** | React · Next.js · TypeScript · Vite · Tailwind CSS · React Router · i18next · Leaflet |
 | **Backend** | FastAPI · Python · Pydantic |
 | **Data / Infra** | Supabase (DB + Auth) |
-| **AI** | Groq |
+| **AI** | Groq · Gemini |
 
 ---
 
