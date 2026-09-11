@@ -15,6 +15,17 @@
 
   document.getElementById('year').textContent = new Date().getFullYear();
 
+  // If a project screenshot is missing, drop back to the text-only card
+  // layout rather than showing a broken image.
+  document.querySelectorAll('.shot img').forEach(function (img) {
+    img.addEventListener('error', function () {
+      var fig = img.closest('.shot');
+      var card = img.closest('.project');
+      if (fig) fig.remove();
+      if (card) card.classList.add('no-shot');
+    });
+  });
+
   var items = document.querySelectorAll('.project, .skill-group, .about-body, .section-title');
   if (!('IntersectionObserver' in window)) return;
   var io = new IntersectionObserver(function (entries) {
