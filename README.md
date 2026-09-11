@@ -11,17 +11,21 @@ Interested in AI and building real products, not just prototypes.
 
 ### 🚀 Projects
 
-#### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai)
+#### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai) · [live demo](https://urbaneye-ai-gamma.vercel.app)
 AI-powered smart city reporting platform. Residents report issues (accidents, garbage, water leaks, broken streetlights, potholes) with a single photo; AI classifies the problem type, severity, and responsible department, then clusters similar reports into one **Incident** for admin action. Built for a Smart City hackathon.
 `React` `TypeScript` `FastAPI` `Supabase` `Groq AI` `Leaflet`
 
-#### [Mashawir](https://github.com/menna-1233/mashawir-ui) — Transportation Guidance App
-An app that helps guide users through transportation/navigation decisions. UI at [mashawir-ui](https://github.com/menna-1233/mashawir-ui) ([demo](https://mashawir-ui.vercel.app)), with a fuller [Next.js build](https://github.com/menna-1233/MASHAWIR_55) as well.
+<img src="images/urbaneye.png" width="700" alt="RealityX report screen"/>
+
+#### Mashawir — Transportation Guidance App
+An app that helps guide users through transportation/navigation decisions.
 `Next.js` `TypeScript` `React`
 
-#### [Gorgeous & Fade](https://github.com/menna-1233/GF-GORGREOUS-AND-FADE)
+#### [Gorgeous & Fade](https://gf-eight-opal.vercel.app)
 A luxury women's clothing e-commerce store — product catalog, cart, auth, wishlist, and reviews, backed by Supabase.
 `React` `TypeScript` `Supabase`
+
+<img src="images/gf.png" width="700" alt="Gorgeous & Fade storefront"/>
 
 ---
 
