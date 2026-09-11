@@ -3,11 +3,12 @@
   var btn = document.getElementById('theme');
   var stored = null;
   try { stored = localStorage.getItem('theme'); } catch (e) {}
-  if (stored === 'dark' || stored === 'light') root.setAttribute('data-theme', stored);
+  // Default to light regardless of system preference; a stored choice
+  // (from the toggle) always wins.
+  root.setAttribute('data-theme', stored === 'dark' ? 'dark' : 'light');
 
   btn.addEventListener('click', function () {
-    var dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    var current = root.getAttribute('data-theme') || (dark ? 'dark' : 'light');
+    var current = root.getAttribute('data-theme') || 'light';
     var next = current === 'dark' ? 'light' : 'dark';
     root.setAttribute('data-theme', next);
     try { localStorage.setItem('theme', next); } catch (e) {}
