@@ -23,4 +23,9 @@
     });
   }, { rootMargin: '0px 0px -10% 0px' });
   items.forEach(function (el) { el.classList.add('reveal'); io.observe(el); });
+
+  // Safety net: never let the reveal animation hide content permanently.
+  setTimeout(function () {
+    items.forEach(function (el) { el.classList.add('in'); });
+  }, 4000);
 })();
