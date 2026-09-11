@@ -20,11 +20,8 @@ An app that helps guide users through transportation/navigation decisions. UI at
 `Next.js` `TypeScript` `React`
 
 #### [GF — Fade/Glass UI](https://github.com/menna-1233/GF-GORGREOUS-AND-FADE)
-A glass/fade-styled UI experiment built with Google AI Studio, powered by the Gemini API. [Live demo](https://gf-eight-opal.vercel.app).
-`TypeScript` `Gemini API`
-
-#### Qafilah
-Contributor to Qafilah. *(link coming soon)*
+A glass/fade-styled UI experiment.
+`TypeScript`
 
 ---
 
@@ -35,7 +32,7 @@ Contributor to Qafilah. *(link coming soon)*
 | **Frontend** | React · Next.js · TypeScript · Vite · Tailwind CSS · React Router · i18next · Leaflet |
 | **Backend** | FastAPI · Python · Pydantic |
 | **Data / Infra** | Supabase (DB + Auth) |
-| **AI** | Groq · Gemini |
+| **AI** | Groq |
 
 ---
 
