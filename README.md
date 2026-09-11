@@ -3,7 +3,7 @@
 # Hi, I'm Menna 👋
 
 **Computer Science Student @ Egyptian Chinese University (ECU)**
-Technical Co-Founder @ Qafilah · Founder @ Mashawir
+Founder @ Mashawir
 Interested in AI and building real products, not just prototypes.
 
 </div>
@@ -12,12 +12,11 @@ Interested in AI and building real products, not just prototypes.
 
 ### 🚀 What I'm building
 
-#### Qafilah — Technical Co-Founder <sub>(2026–present)</sub>
-Leading technical direction end to end: applicant management and admin workflows, product architecture, UX/UI, frontend, and data flows — built with AI-assisted development workflows.
-
-#### Mashawir — Founder <sub>(2026–present)</sub>
+#### Mashawir — Founder
 A transportation-tech product for navigating Egypt's informal public transportation system. Built route discovery and a transportation data system — routes, nodes, edges, stops, coordinates, and route variants — with an Arabic-first UX.
 `Supabase` `SQL` `APIs` `Mapping`
+
+<img src="images/mashawir.png" width="700" alt="Mashawir route planning screen"/>
 
 #### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai) · [live demo](https://urbaneye-ai-gamma.vercel.app)
 AI-powered incident management app. Residents report community issues with a single photo; AI automatically classifies the type, severity, location, and responsible department. App + AI analysis + backend API + admin dashboard. Built for a Smart City hackathon.
@@ -28,13 +27,6 @@ AI-powered incident management app. Residents report community issues with a sin
 #### [Gorgeous & Fade](https://gf-eight-opal.vercel.app)
 An e-commerce web experience that translates an existing fashion brand identity into a full storefront — visual system, customer journey, catalog, cart, auth, wishlist, and reviews — built with AI-assisted prototyping.
 `React` `TypeScript` `Supabase`
-
----
-
-### 🏆 Achievements
-
-**1st Place — Cohort Project Competition**
-Led a university team building a **Voice-Controlled Robotic Arm**: voice-command training integrated with robotic control.
 
 ---
 
@@ -57,7 +49,6 @@ Led a university team building a **Voice-Controlled Robotic Arm**: voice-command
 </p>
 
 - **REST APIs** · **AI APIs / AI-assisted development** · **UX/UI & Product Design**
-- 🗣️ **Languages:** Arabic (native) · English
 
 ---
 
