@@ -16,7 +16,12 @@ Interested in AI and building real products, not just prototypes.
 A transportation-tech product for navigating Egypt's informal public transportation system. Built route discovery and a transportation data system — routes, nodes, edges, stops, coordinates, and route variants — with an Arabic-first UX.
 `Supabase` `SQL` `APIs` `Mapping`
 
-<img src="images/mashawir.png" width="700" alt="Mashawir route planning screen"/>
+<p>
+<img src="images/mashawir-1.jpg" width="165" alt="Mashawir home screen"/>
+<img src="images/mashawir-2.jpg" width="165" alt="Mashawir route search results"/>
+<img src="images/mashawir-3.jpg" width="165" alt="Mashawir trip details sheet"/>
+<img src="images/mashawir-4.jpg" width="165" alt="Mashawir live trip tracking map"/>
+</p>
 
 #### [RealityX / urbaneye-ai](https://github.com/menna-1233/urbaneye-ai) · [live demo](https://urbaneye-ai-gamma.vercel.app)
 AI-powered incident management app. Residents report community issues with a single photo; AI automatically classifies the type, severity, location, and responsible department. App + AI analysis + backend API + admin dashboard. Built for a Smart City hackathon.
